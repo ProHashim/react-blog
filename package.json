@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ProHashim.github.io/blog",
-  "name": "blog",
+  "homepage": "http://ProHashim.github.io/react-blog",
+  "name": "react-blog",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
