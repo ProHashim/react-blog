@@ -120,7 +120,7 @@ function App() {
       </div>
       <div id="footer-bgcontent">
         <div id="footer">
-          <p>&copy; Untitled. All rights reserved. Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+          <p>&copy; Converted to React by @prohashim. Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
         </div>
         {/* <!-- end #footer --> */}
       </div>
